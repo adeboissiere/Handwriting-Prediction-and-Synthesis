@@ -6,7 +6,7 @@ This project uses the strokes and ascii transcriptions of the IAM On-Line Handwr
 
 ## Handwriting Prediction (section 4)
 The network consits of 3 layers of 400 LSTMS. 20 gaussian mixtures are used. See Handwriting generation.ipynb 
-![alt text](https://raw.githubusercontent.com/gnocchiflette/Handwriting-Prediction-and-Synthesis/master/sample_random_color.png)
+![alt text](https://raw.githubusercontent.com/gnocchiflette/Handwriting-Prediction-and-Synthesis/e10498b948a0422792721a2a53d92a35bd5381f5/samples/sample_random_color.png)
 
 ## Handwriting Synthesis (section 5)
 See Handwriting prediction.ipynb. The code does not work so far. There seems to be an issue with the attention mechanisme. 
