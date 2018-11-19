@@ -1,0 +1,10 @@
+OCR:
+
+CSR:
+
+Quantum theory of the
+effective-mass approximation.
+The wave equation describing the
+motion of electrons in a crystal in 
+perturbing field of force may be derived
+in a number of ways.

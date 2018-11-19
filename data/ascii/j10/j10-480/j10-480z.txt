@@ -1,0 +1,13 @@
+OCR:
+
+CSR:
+
+Given the same initial
+data any person using the
+method will produce the
+same forecast. Most
+objective techniques depend
+on the production of either
+formulae diagrams, and
+both methods have been
+subject to various weakness.

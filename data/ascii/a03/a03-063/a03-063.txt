@@ -1,0 +1,19 @@
+OCR:
+
+Sentence Database
+Mr . Thorneycroft , the Minister of Aviation , who arrives in
+Bonn tomorrow for talks with the Federal Government on a
+European space satellite project , will find the Germans
+interested in the principle of space research , but rather
+
+CSR:
+
+Sentence Database
+Mr . Thorneycroft , the Minister
+of Aviation , who arrives
+in Bonn tomorrow for
+talks with the Federal Government
+on a European space satellite
+project , will find the Germans
+interested in the principle of
+space research , but rather

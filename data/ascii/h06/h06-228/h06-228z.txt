@@ -1,0 +1,13 @@
+OCR:
+
+CSR:
+
+In the unit system, where boiler,
+turbine and ancillary plant are
+integrated, controls are located in
+a single operations room under the
+supervision of a co-ordinated team.
+Wherever possible the principles of
+"failure-to-savety" or "back-up
+protection" have been incorporated
+in the design.

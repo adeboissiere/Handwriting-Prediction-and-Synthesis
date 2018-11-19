@@ -1,0 +1,15 @@
+OCR:
+
+CSR:
+
+A radiant heater, dissipating 750 w
+at 110 v, was mounted above the
+workholder to raise the temperature
+of the substrate to 300 deg C before
+evaporation. The temperature of the
+substrate was measured by means
+of a chromel-alumel thermocouple
+placed inside the vacuum chamber
+with its junction resting on
+the top face of the
+workholder.

@@ -1,0 +1,10 @@
+OCR:
+
+CSR:
+
+Most of the parameters tested are listed in
+table 2. The geostrophic winds over London
+Airport were measured from surface charts at the
+Central forecasting Office, Dunstable. The wind
+shear was defined as the ration of the surface
+wind speed to the geostrophic wind speed.

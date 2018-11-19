@@ -1,0 +1,14 @@
+OCR:
+
+CSR:
+
+Each section of the
+diagram combines a new
+predictor with an estimate
+of the predictand obtained
+from the previous sections.
+At each stage the predictor
+to be selected is that
+which contributes most
+to the combination far
+chosen.

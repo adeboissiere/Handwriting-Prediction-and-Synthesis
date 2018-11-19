@@ -1,0 +1,12 @@
+OCR:
+
+CSR:
+
+11.1. The quasi-classical
+approximation. These may be expressed
+in terms of the wave vector k or
+crystal momentum P by means of the
+vector equation FORM. We shall
+refer to this, and the more
+general form (2), as the quasi-classical
+approximation.

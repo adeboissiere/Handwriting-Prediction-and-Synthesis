@@ -1,0 +1,12 @@
+OCR:
+
+CSR:
+
+Contamination of the sodium
+circuit by oxygen from the cell.
+Experiments with solid oxide electrolyte
+galvanic cells have indicated that it is
+difficult to obtain # reproducible
+voltages using normal potentiometric
+methods at temperatures below
+750 deg C.

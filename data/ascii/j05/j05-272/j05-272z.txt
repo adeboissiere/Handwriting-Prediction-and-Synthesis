@@ -1,0 +1,13 @@
+OCR:
+
+CSR:
+
+We then have for the
+expansion of the wave
+function ps FORM. 11.2.1.
+The Wannier functions.
+Consider the wave function
+FORM where the constants an
+are ate at our disposal,
+the sum being taken over the N
+allowed values of k.

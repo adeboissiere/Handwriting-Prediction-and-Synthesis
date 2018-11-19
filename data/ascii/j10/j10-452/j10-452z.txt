@@ -1,0 +1,11 @@
+OCR:
+
+CSR:
+
+B). Examples of forecasts.
+These two situations were chosen
+because the former forecast produced
+a large r.m.s error at 500 and
+200 mb and was not one of the better
+forecasts, whereas the latter was
+typical of one of the good forecasts.

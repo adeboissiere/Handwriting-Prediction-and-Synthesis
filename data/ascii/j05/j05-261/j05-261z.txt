@@ -1,0 +1,11 @@
+OCR:
+
+CSR:
+
+In the derivation of equation (1)
+we pointed out that there were certain
+restrictions under which it could be
+applied. In particular, the force F
+must be "slowly varying", i.e it must
+change very slightly between
+neighbouring cells in the crystal.

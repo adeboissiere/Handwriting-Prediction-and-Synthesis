@@ -1,0 +1,18 @@
+OCR:
+
+Sentence Database
+Yet in spite of the fact that his ideas did his
+business no good George would never conceal them .
+He was a socialist and believed in the right
+of the working class to control their own destiny , and
+
+CSR:
+
+Sentence Database
+Yet in spite of the fact that
+his ideas did his business no
+good George would never conceal
+them . He was a socialist and
+believed in the right of the
+working class to control their
+own destiny , and

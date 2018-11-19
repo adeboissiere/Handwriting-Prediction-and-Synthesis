@@ -1,0 +1,12 @@
+OCR:
+
+CSR:
+
+A simple ohmmeter was
+used for monitoring the resistance
+value during evaporation. The
+accuracy of the measurements was
+only of the order 14 2 , but the
+results were used only to indicate
+the approximate value of the resistance
+during evaporation.

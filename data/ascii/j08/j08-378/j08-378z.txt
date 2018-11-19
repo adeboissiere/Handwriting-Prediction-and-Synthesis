@@ -1,0 +1,9 @@
+OCR:
+
+CSR:
+
+2. Practical requirements. Substrate.
+Any variation of surface smoothness gives
+a corresponding variation of film resistance value,
+because the film is thin enough to be greatly
+affected by the State of the surface.

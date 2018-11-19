@@ -1,0 +1,19 @@
+OCR:
+
+Sentence Database
+'Can you sing?' he asked Arthur Parkin .
+Arthur couldn't , but he joined the Choir .
+Most of the members were unemployed at the time , they
+had never sung a note in their lives , and hardly
+
+CSR:
+
+Sentence Database
+'Can you sing?' he asked
+Arthur Parkin . Arthur
+couldn't , but he joined
+the Choir . Most of the
+members were unemployed
+at the time , they had never
+sung a note in their lives ,
+and hardly

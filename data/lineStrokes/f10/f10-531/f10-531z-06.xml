@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WhiteboardCaptureSession>
+  <WhiteboardDescription>
+    <SensorLocation corner="top_left"/>
+    <DiagonallyOppositeCoords x="1194" y="3705"/>
+    <VerticallyOppositeCoords x="509" y="3705"/>
+    <HorizontallyOppositeCoords x="1194" y="3218"/>
+  </WhiteboardDescription>
+  <StrokeSet>
+    <Stroke colour="black" start_time="15258700.29" end_time="15258700.76">
+      <Point x="643" y="3436" time="15258700.29"/>
+      <Point x="632" y="3434" time="15258700.30"/>
+      <Point x="623" y="3433" time="15258700.32"/>
+      <Point x="610" y="3431" time="15258700.34"/>
+      <Point x="593" y="3433" time="15258700.35"/>
+      <Point x="571" y="3446" time="15258700.36"/>
+      <Point x="546" y="3470" time="15258700.38"/>
+      <Point x="526" y="3491" time="15258700.39"/>
+      <Point x="512" y="3521" time="15258700.41"/>
+      <Point x="509" y="3541" time="15258700.42"/>
+      <Point x="516" y="3558" time="15258700.44"/>
+      <Point x="532" y="3569" time="15258700.45"/>
+      <Point x="552" y="3572" time="15258700.47"/>
+      <Point x="574" y="3576" time="15258700.48"/>
+      <Point x="597" y="3566" time="15258700.50"/>
+      <Point x="621" y="3554" time="15258700.51"/>
+      <Point x="640" y="3532" time="15258700.52"/>
+      <Point x="654" y="3518" time="15258700.54"/>
+      <Point x="663" y="3495" time="15258700.55"/>
+      <Point x="665" y="3479" time="15258700.57"/>
+      <Point x="664" y="3462" time="15258700.58"/>
+      <Point x="660" y="3454" time="15258700.60"/>
+      <Point x="656" y="3450" time="15258700.61"/>
+      <Point x="654" y="3450" time="15258700.62"/>
+      <Point x="655" y="3449" time="15258700.64"/>
+      <Point x="658" y="3457" time="15258700.66"/>
+      <Point x="663" y="3474" time="15258700.67"/>
+      <Point x="673" y="3488" time="15258700.68"/>
+      <Point x="681" y="3505" time="15258700.70"/>
+      <Point x="687" y="3522" time="15258700.71"/>
+      <Point x="692" y="3535" time="15258700.73"/>
+      <Point x="697" y="3547" time="15258700.74"/>
+      <Point x="701" y="3556" time="15258700.76"/>
+    </Stroke>
+    <Stroke colour="black" start_time="15258700.89" end_time="15258701.48">
+      <Point x="810" y="3482" time="15258700.89"/>
+      <Point x="810" y="3478" time="15258700.90"/>
+      <Point x="808" y="3474" time="15258700.92"/>
+      <Point x="798" y="3465" time="15258700.94"/>
+      <Point x="782" y="3463" time="15258700.96"/>
+      <Point x="760" y="3469" time="15258700.97"/>
+      <Point x="738" y="3479" time="15258700.98"/>
+      <Point x="720" y="3493" time="15258701.00"/>
+      <Point x="711" y="3508" time="15258701.01"/>
+      <Point x="713" y="3517" time="15258701.03"/>
+      <Point x="728" y="3526" time="15258701.04"/>
+      <Point x="750" y="3525" time="15258701.06"/>
+      <Point x="776" y="3519" time="15258701.07"/>
+      <Point x="804" y="3509" time="15258701.08"/>
+      <Point x="827" y="3495" time="15258701.10"/>
+      <Point x="844" y="3477" time="15258701.12"/>
+      <Point x="851" y="3460" time="15258701.13"/>
+      <Point x="852" y="3457" time="15258701.14"/>
+      <Point x="846" y="3448" time="15258701.16"/>
+      <Point x="840" y="3452" time="15258701.17"/>
+      <Point x="831" y="3451" time="15258701.19"/>
+      <Point x="823" y="3459" time="15258701.20"/>
+      <Point x="820" y="3474" time="15258701.22"/>
+      <Point x="822" y="3491" time="15258701.23"/>
+      <Point x="830" y="3515" time="15258701.24"/>
+      <Point x="845" y="3544" time="15258701.26"/>
+      <Point x="865" y="3574" time="15258701.27"/>
+      <Point x="888" y="3603" time="15258701.29"/>
+      <Point x="909" y="3632" time="15258701.30"/>
+      <Point x="924" y="3657" time="15258701.32"/>
+      <Point x="931" y="3677" time="15258701.33"/>
+      <Point x="931" y="3694" time="15258701.35"/>
+      <Point x="925" y="3701" time="15258701.36"/>
+      <Point x="914" y="3705" time="15258701.38"/>
+      <Point x="899" y="3704" time="15258701.39"/>
+      <Point x="881" y="3703" time="15258701.40"/>
+      <Point x="861" y="3694" time="15258701.42"/>
+      <Point x="840" y="3685" time="15258701.43"/>
+      <Point x="822" y="3674" time="15258701.45"/>
+      <Point x="811" y="3666" time="15258701.46"/>
+      <Point x="805" y="3646" time="15258701.48"/>
+    </Stroke>
+    <Stroke colour="black" start_time="15258701.61" end_time="15258701.96">
+      <Point x="982" y="3460" time="15258701.61"/>
+      <Point x="986" y="3451" time="15258701.62"/>
+      <Point x="986" y="3439" time="15258701.64"/>
+      <Point x="978" y="3431" time="15258701.65"/>
+      <Point x="963" y="3431" time="15258701.67"/>
+      <Point x="943" y="3433" time="15258701.68"/>
+      <Point x="921" y="3441" time="15258701.70"/>
+      <Point x="902" y="3460" time="15258701.71"/>
+      <Point x="887" y="3474" time="15258701.72"/>
+      <Point x="882" y="3491" time="15258701.74"/>
+      <Point x="885" y="3503" time="15258701.76"/>
+      <Point x="898" y="3524" time="15258701.77"/>
+      <Point x="919" y="3529" time="15258701.78"/>
+      <Point x="943" y="3538" time="15258701.80"/>
+      <Point x="972" y="3539" time="15258701.81"/>
+      <Point x="998" y="3535" time="15258701.83"/>
+      <Point x="1019" y="3532" time="15258701.84"/>
+      <Point x="1030" y="3525" time="15258701.86"/>
+      <Point x="1035" y="3512" time="15258701.87"/>
+      <Point x="1035" y="3505" time="15258701.88"/>
+      <Point x="1027" y="3489" time="15258701.90"/>
+      <Point x="1015" y="3472" time="15258701.92"/>
+      <Point x="1001" y="3460" time="15258701.93"/>
+      <Point x="984" y="3448" time="15258701.94"/>
+      <Point x="968" y="3438" time="15258701.96"/>
+    </Stroke>
+    <Stroke colour="black" start_time="15258703.21" end_time="15258703.27">
+      <Point x="1128" y="3536" time="15258703.21"/>
+      <Point x="1129" y="3536" time="15258703.22"/>
+      <Point x="1131" y="3536" time="15258703.24"/>
+      <Point x="1131" y="3540" time="15258703.25"/>
+      <Point x="1129" y="3537" time="15258703.27"/>
+    </Stroke>
+    <Stroke colour="black" start_time="15258703.53" end_time="15258703.70">
+      <Point x="1168" y="3231" time="15258703.53"/>
+      <Point x="1167" y="3228" time="15258703.54"/>
+      <Point x="1168" y="3227" time="15258703.56"/>
+      <Point x="1168" y="3231" time="15258703.57"/>
+      <Point x="1167" y="3235" time="15258703.59"/>
+      <Point x="1165" y="3251" time="15258703.60"/>
+      <Point x="1163" y="3267" time="15258703.61"/>
+      <Point x="1161" y="3279" time="15258703.63"/>
+      <Point x="1162" y="3296" time="15258703.65"/>
+      <Point x="1164" y="3308" time="15258703.66"/>
+      <Point x="1167" y="3315" time="15258703.67"/>
+      <Point x="1170" y="3315" time="15258703.69"/>
+      <Point x="1175" y="3311" time="15258703.70"/>
+    </Stroke>
+    <Stroke colour="black" start_time="15258703.80" end_time="15258703.90">
+      <Point x="1187" y="3218" time="15258703.80"/>
+      <Point x="1188" y="3223" time="15258703.82"/>
+      <Point x="1188" y="3227" time="15258703.83"/>
+      <Point x="1190" y="3239" time="15258703.85"/>
+      <Point x="1190" y="3263" time="15258703.86"/>
+      <Point x="1189" y="3291" time="15258703.87"/>
+      <Point x="1192" y="3322" time="15258703.89"/>
+      <Point x="1194" y="3350" time="15258703.90"/>
+    </Stroke>
+  </StrokeSet>
+</WhiteboardCaptureSession>

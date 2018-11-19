@@ -1,0 +1,13 @@
+OCR:
+
+CSR:
+
+To assist in selecting the
+more promising predictors each
+parameter x was correlated in
+turn with the visibility to
+be forecast z. The correlation
+coefficient r was calculated
+from the formula FORM where
+SD was the standard deviation
+of the visibility to be forecast.

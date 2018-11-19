@@ -1,0 +1,16 @@
+OCR:
+
+CSR:
+
+The system which was devised
+consists of a composite diagram
+such as that illustrated at Fig. 1.
+The pecked line on the diagram
+indicates its method of use. The
+top lefthand section is entered
+with the appropriate value of the
+first predictor and successive
+turns are made at the appropriate
+isopleths of each of the other
+predictors, the forecast being
+read from the scale exit.
