@@ -5,7 +5,7 @@ So far, only the handwriting generation is functional (section 4). The synthesis
 This project uses the strokes and ascii transcriptions of the IAM On-Line Handwriting databse.
 
 ## Handwriting Prediction (section 4)
-The network consits of 3 layers of 400 LSTMS. 20 gaussian mixtures are used. See Handwriting generation.ipynb 
+The network consits of 3 layers of 400 LSTMS. 20 gaussian mixtures are used. See Handwriting generation - Model 1.ipynb 
 ![alt text](./pictures/sample1.png)
 
 ## Handwriting Synthesis (section 5)
